@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 400;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.Word{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Raleway', serif;
+}
+.Word:hover{
+    color:blue;
+}
+h2{
+    margin: 10px 0px 10px 0px;
+    text-align: center;
+}
+.div1 {
+    columns: 3 200px;
+    column-rule: 4px dotted royalblue;
+    border-left: 4px dotted royalblue;
+    color: blueviolet;
+    background-color: black;
+    padding: 5px 0px 5px 0px;
+    font-family: 'Roboto', sans-serif;
+}
+.div2{
+    columns: 2 200px;
+    column-rule: 4px dotted rosybrown;
+    border-left: 4px dotted rosybrown;
+}
+.img1{
+    width: 43rem;
+    height: 20rem;
+    border: 8px inset red;
+}
+section{
+    margin-left: 3px
+}
+.head{
+    margin-top: 30px;
+    text-align: center;
+    text-decoration-line: overline underline;
+    text-decoration-color: purple;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px red;
+}
+.video {
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    padding-left: 490px;
+    border: none;
+}
